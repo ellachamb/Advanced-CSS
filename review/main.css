@@ -63,7 +63,6 @@ figure {
 
     article {
         display: flex;
-        position: fixedd;
     }
 
     .post-date {
